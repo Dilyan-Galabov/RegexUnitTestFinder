@@ -9,8 +9,6 @@ log4j and for every start of the jar file(application) it will be creating a new
 
 Guide:
 
-First of all we need to import log4j in our project.
-
 1.Export Project -> Runnable Jar -> Finish
 2. Open command prompt and start jar file -java -jar "jarName" [input_file] [order_by] [sort_direction] [output_file]. 
 Or you can use java -jar "jarName" -help(for help information).
