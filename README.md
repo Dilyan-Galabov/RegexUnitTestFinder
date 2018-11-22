@@ -8,6 +8,7 @@ And it will be saved in other file input from the user. Every line that doesn't 
 log4j and for every start of the jar file(application) it will be creating a new log file.
 
 Guide:
+
 First of all we need to import log4j in our project.
 
 1.Export Project -> Runnable Jar -> Finish
